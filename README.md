@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 我的产品
 
+- [Shapify AI](https://www.shapify.ai/)
+- [URL to Any](https://www.urltoany.com/)
 - [独立开发沉思录](https://hackthinking.com/)
 - [即刻导出](https://jike-export.wujieli.com/)
 
