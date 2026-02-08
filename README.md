@@ -23,9 +23,9 @@ My Mission
 
 My Project
 
+- [Get Magic Tools](https://getmagictools.com)
+- [Any To URL](https://anytourl.com)
 - [JoyFlix AI](https://joyflix.ai/)
-- [GameClick.io](https://gameclick.io/)
-- [Shapify AI](https://www.shapify.ai/)
 - [URL to Any](https://www.urltoany.com/)
 - [独立开发沉思录](https://hackthinking.com/)
 - [即刻导出](https://jike-export.wujieli.com/)
@@ -37,10 +37,3 @@ Fin me
 - [Jike](https://web.okjike.com/u/737645D8-42B5-4B4F-9687-DCA50D85DE1A)
 - [github](https://github.com/wujieli0207)
 - [Twitter](https://x.com/li_wujie)
-
-
-<div align="left">
-<span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=wujieli0207&count_private=true&show_icons=true&theme=radical" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wujieli0207&layout=compact&langs_count=8&theme=radical" />
-<span>  </span>
-</div>
