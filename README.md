@@ -23,7 +23,6 @@ My Mission
 
 My Project
 
-- [Get Magic Tools](https://getmagictools.com): Discover the Best Software to Supercharge Your Workflow
 - [Any To URL](https://anytourl.com): Turn Any File into a Shareable URL
 - [JoyFlix AI](https://joyflix.ai): The Only AI Video Generator You'll Ever Need
 - [Sketch To](https://www.sketchto.com): AI Image to Sketch Converter
