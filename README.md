@@ -29,7 +29,6 @@ My Project
 - [URL to Any](https://www.urltoany.com/): An All-in-One Web Content Conversion Tool
 - [独立开发沉思录](https://hackthinking.com/)
 - [即刻导出](https://jike-export.wujieli.com/)
-- [Make Dime Dime Baby](https://makedimedimebaby.com): Your photo in the Dime Dime Baby dance
 
 Fin me
 
